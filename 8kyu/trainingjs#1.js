@@ -19,6 +19,6 @@
 //My Soultion
 
 function helloWorld(){
-  var str = "Hello World"
+  var str = "Hello World!"
   console.log(str)
 }

@@ -8,3 +8,7 @@
 function unusualFive() {
   return ['apple', 'cat', 'dog', 'cake', 'phone'].length;
 }
+
+function unusualFive() {
+  return 'apple'.length;
+}
